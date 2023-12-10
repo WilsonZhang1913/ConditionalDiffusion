@@ -1,4 +1,4 @@
-# This report is based on https://github.com/IGITUGraz/WeatherDiffusion with modification 
+# This repo is based on https://github.com/IGITUGraz/WeatherDiffusion with modification 
 
 
 ## Datasets
