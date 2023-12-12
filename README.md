@@ -12,6 +12,7 @@ python train_diffusion.py --config "allweather.yml" --resume 'WeatherDiff1024.pt
 
 ## To evaluate the model 
 
-python eval_diffusion.py --config "allweather_test.yml" --resume 'patch_ddpm_14000.pth.tar' --test_set 'snow' --sampling_timesteps 25
+python eval_diffusion.py --config "allweather_test.yml" --resume 'patch_ddpm_140000.pth.tar' --test_set 'snow' --sampling_timesteps 25
+
 
 
